@@ -10,7 +10,7 @@ import (
 	"os"
 
 	"github.com/BurntSushi/toml"
-	"github.com/jsternberg/ansible-agent/ansible"
+	"github.com/stanchan/ansible-agent/ansible"
 )
 
 var (

@@ -1,6 +1,6 @@
 package main
 
-import "github.com/jsternberg/ansible-agent/ansible"
+import "github.com/stanchan/ansible-agent/ansible"
 
 type Config struct {
 	SSL  SSLSection
